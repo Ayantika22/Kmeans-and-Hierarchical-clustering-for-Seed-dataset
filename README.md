@@ -37,4 +37,5 @@ Kmeans Cluster
 ![alt text](https://github.com/Ayantika22/Kmeans-and-Hierarchical-clustering-for-Seed-dataset/blob/master/image.png)
 
 Hierarchical Cluster
+
 ![alt text](https://github.com/Ayantika22/Kmeans-and-Hierarchical-clustering-for-Seed-dataset/blob/master/hca_seed.JPG)
